@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SimpleNLE">
+    <output-path>$PROJECT_DIR$/out/artifacts/SimpleNLE</output-path>
+    <root id="archive" name="SimpleNLE.jar" />
+  </artifact>
+</component>
